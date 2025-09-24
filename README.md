@@ -140,7 +140,7 @@ This project is open source and available under the MIT License.
 ## 💬 Connect
 
 - GitHub: [@haiqa2000](https://github.com/haiqa2000)
-- Project Link: [https://github.com/yourusername/kattar-karachi-beats](https://github.com/yourusername/kattar-karachi-beats)
+- Project Link: [https://github.com/haiqa2000/kattar-karachi-beats](https://github.com/haiqa2000/kattar-karachi-beats)
 
 ---
 
